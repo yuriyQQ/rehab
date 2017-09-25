@@ -1,0 +1,25 @@
+Head_bot
+News
+Serv
+Spec
+SpecA
+SpecD
+Than
+NewsM
+NewsD
+Team	?
+About
+AboutEq
+AboutRe
+Cont
+ContM	
+ContF
+Rev
+
+Err
+Prog
+ProgF
+Ed
+Edf
+Reh
+RehF
